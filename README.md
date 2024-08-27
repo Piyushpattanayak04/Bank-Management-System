@@ -6,3 +6,4 @@ Before running this file, kindly run these commands to install the packages :
     pip install pyttsx3
     pip install canvas
     pip install reportlab.pdfgen
+    and then restart your PC :)
